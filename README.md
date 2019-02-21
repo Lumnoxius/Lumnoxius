@@ -1,5 +1,5 @@
-# Welcome!
+# Hi!
 
-### This is a website
+### Welcome!!
 
 This is a test. And here is some text.
